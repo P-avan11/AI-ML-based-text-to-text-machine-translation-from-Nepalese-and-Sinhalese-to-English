@@ -68,7 +68,7 @@ Start the localized development server:
 
 Bash
 python app.py
-Open your preferred web browser and navigate to http://127.0.0.1:5000/.
+Open your preferred web browser and navigate to .
 
 🧠 How the Pipeline Works
 Ingestion & Parsing: Uploaded documents are converted to high-resolution images via pdf2image and sent to the data processing pipeline.
